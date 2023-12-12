@@ -30,7 +30,7 @@
       {
         "name": "Php",
         "logo": "https://raw.githubusercontent.com/Vandecojjr/Portfolio/main/data/imgs/php.png"
-      }
+      },
       {
         "name": "C#",
         "logo": "https://raw.githubusercontent.com/Vandecojjr/Portfolio/main/data/imgs/csharp.png"
@@ -64,12 +64,12 @@
       "name": "Portifólio da Maiara Verão",
       "url": "http://maiaraverao.online/",
       "github": false
-    }
+    },
     {
       "name": "Primeiro programa em .NET",
       "url": "https://github.com/Vandecojjr/.NET-primeiro-programa",
       "github": true
-    }
+    },
     {
       "name": "Sistema de cadastro de Agenda MVC em ASPNET",
       "url": "https://github.com/Vandecojjr/projeto-crud-.NET",
